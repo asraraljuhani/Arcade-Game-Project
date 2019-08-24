@@ -1,4 +1,6 @@
 # Arcade-Game-Project
+Arcade Game is a 2D game in the browser, which you are the player and you have to reach the sea without touch the bugs.
+
 This is my application of Arcade Game Project of FEND from Udacity.
 # Getting Started
 Download the project and open  **index.html** file using any web browser and you ready to play the game. 
